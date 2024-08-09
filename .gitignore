@@ -1,0 +1,5 @@
+/config/db/dbdata/*
+/config/nginx/log/*
+/config/nginx/log/*.log
+/app/*
+/.env
